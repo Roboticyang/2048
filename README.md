@@ -2,4 +2,4 @@
 
 ## This game is created for the purpose of reinforcement learning practice.
 ### It is created using lib PyGame. 
-### A later Training RL file using the game2048.py as import to play the game. 
+### A later Training RL file import the game2048.py to play the game. 
